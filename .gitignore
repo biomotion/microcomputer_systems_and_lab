@@ -1,0 +1,5 @@
+*.uvguix.*
+*.map
+*.o
+Listings/
+Objects/
